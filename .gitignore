@@ -1,0 +1,15 @@
+# ignore .csv files
+*.csv
+
+# ingore reading material
+reading material/
+
+# ignore figures
+*.png
+
+# ignore binary output
+region_based_grid_tree
+
+# ignore vscode settings
+.vscode/
+
